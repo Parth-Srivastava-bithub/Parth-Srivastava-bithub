@@ -35,7 +35,7 @@
 - GitHub: [GitHub](https://github.com/Parth-Srivastava-bithub)  
 - LeetCode: [LeetCode](https://leetcode.com/foresty)  
 - Codeforces: [CodeForces](https://codeforces.com/profile/YellowForest)  
-- Codolio: [CodoLio](https://codeforces.com/profile/Foresty)  
+- Codolio: [CodoLio](https://codolio.com/profile/Foresty)  
 
 ## 😄 Pronouns:
 He / Him
