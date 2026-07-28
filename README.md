@@ -1,51 +1,50 @@
-# Hi 👋 I'm Parth Srivastava
+ # Hi, I'm Parth Srivastava 👋
 
-🎓 Final year B.Tech CSE student from India  
-💻 Passionate about Data Science, Machine Learning & Automation   
+AI/ML Engineer passionate about LLMs, RAG, AI Agents, and production AI systems.
 
----
+## 🚀 What I Work On
 
-## 🌱 Currently Learning:
-- Machine Learning & Deep Learning  
-- AI Agents & Autonomous Systems  
-- Web Dev with React, Tailwind, and Node.js  
-- System Design & Clean Architecture  
+- LLM Applications & RAG
+- AI Agents
+- Synthetic Data Generation
+- Machine Learning
+- Model Deployment & Inference
+- Automation
 
-## 👨‍💻 My Live/Future Projects:
-- 🧠 Feature Analysis Tool (visualizes partial dependencies between features)  
-- 🔍 Correlation Project (automated correlation detection & insights)  
-- 🤖 AI Agent Hub (LLMs, model hosting & open-source agent playground)  
-- 🚨 Hold On (Krishna-based anti-suicide AI support bot)  
-- 🧰 ScrollLess (Reddit comment summarizer extension)  
-- 📊 Roadmap Hub (structured career learning platform)
+## 🛠 Tech Stack
 
-## 👯 I’m looking to collaborate on:
-- Open Source ML Tools  
-- Projects that make learning/job hunting easier for students  
-- Building lightweight, real-world AI agent systems  
+**Languages**
+`Python` `SQL` `Java` `KQL`
 
-## 🤔 I’m looking for help with:
-- Building custom LLMs for constrained devices  
-- Making autoML workflows faster and cheaper  
-- Creating an ML-focused CSS UI framework (yep, design matters too)
+**AI & ML**
+`Hugging Face` `LangChain` `LangGraph`
+`TensorFlow` `Scikit-learn`
+`FAISS` `FastAPI`
 
-## 📫 How to reach me:
-- Email: dsparthsrivastava@gmail.com  
-- LinkedIn: [LinkedIn](https://linkedin.com/in/parth-srivastava-dsuser)  
-- GitHub: [GitHub](https://github.com/Parth-Srivastava-bithub)  
-- LeetCode: [LeetCode](https://leetcode.com/foresty)  
-- Codeforces: [CodeForces](https://codeforces.com/profile/YellowForest)  
-- Codolio: [CodoLio](https://codolio.com/profile/Foresty)  
+**Deployment**
+`Docker` `RunPod` `vLLM`
+`Prometheus` `Locust`
+`Git` `GitHub`
 
-## 😄 Pronouns:
-He / Him
+## 📌 Featured Projects
 
+- 🧬 Synthetic Data Generator
+- 🤖 AI CLI Assistant
+- 💬 RAG Chatbot
+- 🎨 Image Generation Workflows
+- 🧠 FeaturePy
+- 📊 CorrPY
 
-### 🛠️ Languages and Tools:
-`Python` `Java` `C++` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`  
-`React` `Tailwind CSS` `Next.js` `Node.js` `MongoDB`  
-`Docker` `FastAPI` `Firebase` `PostgreSQL` `Git`
+## 🌱 Currently Exploring
 
----
+- Agentic AI
+- Efficient LLM Fine-tuning
+- Model Serving & Inference
+- AI Infrastructure
 
-💥 Let’s build something future-proof together!
+## 📫 Connect
+
+- 📧 Email: dsparthsrivastava@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/parth-srivastava-dsuser
+- 💻 GitHub: https://github.com/Parth-Srivastava-bithub
+- 🧩 LeetCode: https://leetcode.com/foresty
