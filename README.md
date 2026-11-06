@@ -91,4 +91,4 @@ Observability     : Prometheus, Locust (Load Testing & RPS Benchmarking)
 
 - 🌐 **Portfolio:** [parthml.in](https://parthml.in)
 - 💼 **LinkedIn:** [linkedin.com/in/parth-srivastava-dsuser](https://linkedin.com/in/parth-srivastava-dsuser)
-- 📧 **Email:** [dsparthsrivastava@gmail.com](mailto:dsparthsrivastava@gmail.com)
+- 📧 **Email:** [parthsrivastava6112004@gmail.com](mailto:parthsrivastava6112004@gmail.com)
